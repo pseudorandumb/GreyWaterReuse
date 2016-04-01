@@ -1,3 +1,4 @@
+// Samsung Artik Makers Against Drought Challenge
 #include "HX711.h"
 #define SERIAL_ARTIK Serial1 
 
